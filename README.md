@@ -10,7 +10,7 @@ An interactive Power BI dashboard that brings the **IMDb Top 250 Movies** to lif
 
 | Overview | Filtered View |
 |----------|---------------|
-| ![Overview](screenshots/overview.png) | ![Filtered](screenshots/filtered.png) |
+| ![Overview](1.png) | ![Filtered](11.png) |
 
 ---
 
